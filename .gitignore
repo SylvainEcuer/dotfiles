@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!i3
+!i3/*
+!polybar
+!polybar/*
+!rofi
+!rofi/*
+!zellij
+!zellij/*
+!alacritty
+!alacritty/*
+
